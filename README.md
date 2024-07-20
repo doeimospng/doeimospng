@@ -1,6 +1,6 @@
 i know how to   Code       in Gamemaker. Yes
 
-[![Top Langs](https://github-readme-statss-blue-nine.vercel.app/api/top-langs/?username=doeimospng&theme=radical)](#)
+[![Top Langs](https://github-readme-statss-blue-nine.vercel.app/api/top-langs/?username=doeimospng&theme=github_dark)](#)
 
 <!---
 doeimospng/doeimospng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
