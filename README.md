@@ -1,7 +1,7 @@
 
 
 ![Static Badge](https://img.shields.io/badge/gamemaker-blue?logo=gamemaker&label=i%20hate&labelColor=red)
-![Visits](https://visitor-badge.laobi.icu/badge?page_id=doeimospng.doeimospng)
+[![Visits](https://visitor-badge.laobi.icu/badge?page_id=doeimospng.doeimospng)](#)
 
 # im a silly guy,,,
 yea thats true
