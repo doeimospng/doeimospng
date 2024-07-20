@@ -1,4 +1,6 @@
 
+
+![Static Badge](https://img.shields.io/badge/gamemaker-blue?logo=gamemaker&label=i%20hate&labelColor=red)
 <img align=center src="https://badges.pufler.dev/visits/doeimospng/doeimospng">
 
 # im a silly guy,,,
