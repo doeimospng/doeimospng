@@ -1,7 +1,8 @@
 
-<img align=right src="https://badges.pufler.dev/visits/doeimospng/doeimospng">
+<img align=center src="https://badges.pufler.dev/visits/doeimospng/doeimospng">
 
-i know how to   Code       in Gamemaker. Yes
+# im a silly guy,,,
+yea thats true
 
 [![Top Langs-dark](https://github-readme-statss-blue-nine.vercel.app/api/top-langs/?username=doeimospng&theme=github_dark#gh-dark-mode-only)](#gh-dark-mode-only)
 [![Top Langs-light](https://github-readme-statss-blue-nine.vercel.app/api/top-langs/?username=doeimospng&theme=default#gh-light-mode-only)](#gh-light-mode-only)
